@@ -2,6 +2,8 @@
 
 **Reminiscence-therapy sessions for people living with dementia, built from the culture of their own youth.**
 
+**Live demo: https://then-and-now-phi.vercel.app**
+
 A caregiver enters what they know about someone: birth year, where they grew up, a few things they loved, and what upsets them. An agent uses [Qloo](https://qloo.com)'s taste graph to expand those memories across music, film, TV, food and places, focused on the years memories stick best. It returns a 20-30 minute session the caregiver can run today. After each session, the caregiver marks what made the person light up and what didn't land, and the next session builds on that.
 
 ## Why it needs Qloo
